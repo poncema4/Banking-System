@@ -5,7 +5,7 @@ section .data
     account_num dd 123456789
     account_holder db "Marco Ponce", 0
     account_type db "Savings", 0
-    account_creation_date db "12-12-2024", 0
+    account_creation_date db "12-13-2024", 0
     
     account_bal dd 1500
  
